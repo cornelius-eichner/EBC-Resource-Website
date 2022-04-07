@@ -1,0 +1,79 @@
+baseurl = "http://openscience.cbs.mpg.de"
+DefaultContentLanguage = "en"
+title = "Chimpanzee Brain"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[Params]
+homeTitle = "Chimpanzee Brain Connectivity Atlas" # Set a different text for the header on the home page
+subtitle = "An open source resource and atlas of structural brain connectivity of the chimpanzee brain using high resolution diffusion MRI and tractography"
+mainSections = ["post"]
+logo = "img_cust/site-logo-tdi.png" # Expecting square dimensions
+# favicon = "img_cust/site-logo.ico"
+dateFormat = "January 2, 2006"
+commit = false
+rss = false
+comments = false
+readingTime = false
+wordCount = false
+useHLJS = false
+socialShare = false
+delayDisqus = false
+showRelatedPosts = true
+hideAuthor = true
+
+[Author]
+name = "Cornelius Eichner"
+website = "https://www.cbs.mpg.de/ceichner"
+email = "ceichner@cbs.mpg.de"
+github = "cornelius-eichner"
+twitter = "corneichner"
+
+[[menu.main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[menu.main]]
+identifier = "Resource"
+name = "Resource"
+weight = 2
+
+[[menu.main]]
+parent = "Resource"
+name = "Resource Home"
+url = "post/2022-03-22-resources/"
+weight = 1
+
+[[menu.main]]
+parent = "Resource"
+name = "Data Download"
+url = "page/download"
+weight = 2
+
+[[menu.main]]
+parent = "Resource"
+name = "Online Viewer 2D"
+url = "https://openscience.cbs.mpg.de/brainnetworks/ebc/2D/"
+weight = 2
+target="blank"
+
+[[menu.main]]
+parent = "Resource"
+name = "Online Viewer 3D"
+url = "https://openscience.cbs.mpg.de/brainnetworks/ebc/3D/"
+weight = 3
+
+[[menu.main]]
+name = "About the Project"
+url = "post/2022-03-22-about/"
+weight = 3
+
+[[menu.main]]
+name = "Who are We"
+url = "post/2022-03-22-contributors/"
+weight = 4
