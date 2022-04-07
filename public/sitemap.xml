@@ -2,10 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://openscience.cbs.mpg.de/ebc/categories.html</loc>
+    <loc>post/2022-03-22-resources/</loc>
+    <lastmod>2022-03-22T12:21:38+01:00</lastmod>
   </url><url>
-    <loc>http://openscience.cbs.mpg.de/ebc/</loc>
+    <loc></loc>
+    <lastmod>2022-03-22T12:21:38+01:00</lastmod>
   </url><url>
-    <loc>http://openscience.cbs.mpg.de/ebc/tags.html</loc>
+    <loc>post/</loc>
+    <lastmod>2022-03-22T12:21:38+01:00</lastmod>
+  </url><url>
+    <loc>post/2022-03-22-about/</loc>
+    <lastmod>2022-03-21T12:39:31+01:00</lastmod>
+  </url><url>
+    <loc>post/2022-03-22-contributors/</loc>
+    <lastmod>2022-03-20T12:39:40+01:00</lastmod>
+  </url><url>
+    <loc>post/2022-03-22-license/</loc>
+    <lastmod>2022-03-19T15:23:48+01:00</lastmod>
+  </url><url>
+    <loc>categories/</loc>
+  </url><url>
+    <loc>tags/</loc>
   </url>
 </urlset>

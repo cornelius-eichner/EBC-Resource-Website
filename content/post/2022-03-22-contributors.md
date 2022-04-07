@@ -1,7 +1,7 @@
 ---
 title: "Who are we"
 date: 2022-03-20T12:39:40+01:00
-draft: true
+draft: false
 bigimg: [	
 			{src: "/img_cust/bg-flash.png", desc: "MR Microscopy FLASH data"}, 
 			{src: "/img_cust/bg-tdi-brainstem.png", desc: "Tract Density Image of Brainstem"}, 

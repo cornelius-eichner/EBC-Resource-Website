@@ -2,10 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chimpanzee Brain</title>
-    <link>http://openscience.cbs.mpg.de/ebc/</link>
+    <link></link>
     <description>Recent content on Chimpanzee Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>ceichner@cbs.mpg.de (Cornelius Eichner)</managingEditor>
-    <webMaster>ceichner@cbs.mpg.de (Cornelius Eichner)</webMaster><atom:link href="http://openscience.cbs.mpg.de/ebc/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>ceichner@cbs.mpg.de (Cornelius Eichner)</webMaster>
+    <lastBuildDate>Tue, 22 Mar 2022 12:21:38 +0100</lastBuildDate><atom:link href="index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Access Resources</title>
+      <link>post/2022-03-22-resources/</link>
+      <pubDate>Tue, 22 Mar 2022 12:21:38 +0100</pubDate>
+      <author>ceichner@cbs.mpg.de (Cornelius Eichner)</author>
+      <guid>post/2022-03-22-resources/</guid>
+      <description>The chimpanzee atlas in different forms can be accessed using the following links:
+  Download Data The processed and raw data can be accessed here
+  Online Viewer 2D Link (Please open in new tab)
+  Online Fiber Viewer 3D Link (Please open in new tab)
+  </description>
+    </item>
+    
+    <item>
+      <title>About the Project</title>
+      <link>post/2022-03-22-about/</link>
+      <pubDate>Mon, 21 Mar 2022 12:39:31 +0100</pubDate>
+      <author>ceichner@cbs.mpg.de (Cornelius Eichner)</author>
+      <guid>post/2022-03-22-about/</guid>
+      <description>The Evolution of Brain Connectivity Project A striking feature of our species is our large and complex brain, enabling communication and social cognition that surpasses that of any other species. However, the uniquely human brain structures that support these functions have remained elusive for two reasons. First, the extent of these faculties in non-human apes remains hotly debated. Great ape communication and social cognition have been inherently difficult to observe and vary greatly among individuals.</description>
+    </item>
+    
+    <item>
+      <title>Who are we</title>
+      <link>post/2022-03-22-contributors/</link>
+      <pubDate>Sun, 20 Mar 2022 12:39:40 +0100</pubDate>
+      <author>ceichner@cbs.mpg.de (Cornelius Eichner)</author>
+      <guid>post/2022-03-22-contributors/</guid>
+      <description>This project is an inter-institutional research effort, involving groups from two different Max Planck Institutes in Leipzig, Germany.
+Max Planck Institute for Human Cognitive and Brain Sciences (MPI CBS), Leipzig  Study Lead: Dr. Cornelius Eichner
+Responsible PIs at MPI CBS: Dr. Alfred Anwander, Prof. Dr. Angela Friederici &amp;amp; Prof. Dr. Nikolaus Weiskopf
+Max Planck Institute for Evolutionary Anthropology (MPI EVA), Leipzig  Responsible PIs at MPI EVA: Dr. Catherine Crockford, Dr.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>post/2022-03-22-license/</link>
+      <pubDate>Sat, 19 Mar 2022 15:23:48 +0100</pubDate>
+      <author>ceichner@cbs.mpg.de (Cornelius Eichner)</author>
+      <guid>post/2022-03-22-license/</guid>
+      <description>The resources made public on this website are licensed under Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0). You are free to share, use and modify these materials as long as you attribute the Evolution of Brain Connectivity (EBC) Project and provide a link to this website. If you use the here provided materials in publications or products, you must provide apporiate citations.</description>
+    </item>
+    
   </channel>
 </rss>

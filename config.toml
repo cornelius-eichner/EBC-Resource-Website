@@ -1,4 +1,4 @@
-baseurl = "http://openscience.cbs.mpg.de"
+baseurl = "http://openscience.cbs.mpg.de/ebc"
 DefaultContentLanguage = "en"
 title = "Chimpanzee Brain"
 theme = "beautifulhugo"
