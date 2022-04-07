@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Chimpanzee Brain</title>
+    <link>http://openscience.cbs.mpg.de/ebc/page/</link>
+    <description>Recent content in Pages on Chimpanzee Brain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>ceichner@cbs.mpg.de (Cornelius Eichner)</managingEditor>
+    <webMaster>ceichner@cbs.mpg.de (Cornelius Eichner)</webMaster>
+    <lastBuildDate>Tue, 22 Mar 2022 15:02:17 +0100</lastBuildDate><atom:link href="http://openscience.cbs.mpg.de/ebc/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Download</title>
+      <link>http://openscience.cbs.mpg.de/ebc/page/download/</link>
+      <pubDate>Tue, 22 Mar 2022 15:02:17 +0100</pubDate>
+      <author>ceichner@cbs.mpg.de (Cornelius Eichner)</author>
+      <guid>http://openscience.cbs.mpg.de/ebc/page/download/</guid>
+      <description>The data download link will be unlocked upon publication.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chimpanzee Brain</title>
-    <link>tags/</link>
+    <link>http://openscience.cbs.mpg.de/ebc/tags/</link>
     <description>Recent content in Tags on Chimpanzee Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>ceichner@cbs.mpg.de (Cornelius Eichner)</managingEditor>
-    <webMaster>ceichner@cbs.mpg.de (Cornelius Eichner)</webMaster><atom:link href="tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>ceichner@cbs.mpg.de (Cornelius Eichner)</webMaster><atom:link href="http://openscience.cbs.mpg.de/ebc/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
